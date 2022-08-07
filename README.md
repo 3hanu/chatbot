@@ -1,4 +1,5 @@
 # chatbot
+remember this project has to be made on jupyter notebook where we have .ipynb files not .py
 
 to add more questions we can make changes in ans.json
 
@@ -29,5 +30,7 @@ to add more questions we can make changes in ans.json
     "required_words": []
   }
   
+ When you make random_responses.ipynb it has to be imported in chatbot.ipynb that's why we used import random_responses
  
+ These are the names you gave to your python file. For convenience save using the names written here
 
