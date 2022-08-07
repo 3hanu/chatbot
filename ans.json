@@ -1,0 +1,38 @@
+[
+  {
+    "response_type": "greeting",
+    "user_input": ["hello", "hi", "hey","yo"],
+    "bot_response": "Hello!",
+    "required_words": []
+  },
+  {
+    "response_type": "greeting",
+    "user_input": ["see you", "goodbye", "bye"],
+    "bot_response": "See you later!",
+    "required_words": []
+  },
+  {
+    "response_type": "greeting",
+    "user_input": ["nice", "to", "meet", "you"],
+    "bot_response": "The pleasure is all mine!",
+    "required_words": ["nice", "meet", "you"]
+  },
+  {
+    "response_type": "question",
+    "user_input": ["what", "is", "your", "name"],
+    "bot_response": "My name is Friend",
+    "required_words": ["what", "your", "name"]
+  },
+  {
+    "response_type": "question",
+    "user_input": ["can", "you", "recommend", "me","a","good","book"],
+    "bot_response": "What kind?",
+    "required_words": ["can", "recommend", "book"]
+  },
+  {
+    "response_type": "question",
+    "user_input": ["manga"],
+    "bot_response": "20th century boys",
+    "required_words": []
+  }
+]
