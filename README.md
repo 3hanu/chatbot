@@ -9,6 +9,7 @@ to add more questions we can make changes in ans.json
     "bot_response": "What kind?",
     "required_words": ["can", "recommend", "book"]
   },
+  
   {
     "response_type": "question",
     "user_input": ["manga"],
@@ -17,13 +18,15 @@ to add more questions we can make changes in ans.json
   }
   
   since there is only one kind of book we have to add more categories
-    {
+  
+  {
     "response_type": "question",
     "user_input": ["horror"],
     "bot_response": "frankenstein",
     "required_words": []
   }
-    {
+  
+  {
     "response_type": "question",
     "user_input": ["sci-fi"],
     "bot_response": "time machine",
