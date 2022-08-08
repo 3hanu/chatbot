@@ -32,7 +32,25 @@
   {
     "response_type": "question",
     "user_input": ["manga"],
-    "bot_response": "20th century boys",
+    "bot_response": "20th Century Boys, Monster, Vagabond, Fullmetal Alchemist, Beserk",
+    "required_words": []
+  },
+  {
+    "response_type": "question",
+    "user_input": ["horror"],
+    "bot_response": "The Call of Cthulhu, The Shining, Dracula, Frankenstein",
+    "required_words": []
+  },
+   {
+    "response_type": "question",
+    "user_input": ["fiction"],
+    "bot_response": "Lord of the Rings, Harry Potter, Animal Farm, The Alchemist",
+    "required_words": []
+  },
+  {
+    "response_type": "question",
+    "user_input": ["sci-fi"],
+    "bot_response": "Dune, The Time Machine",
     "required_words": []
   }
 ]
